@@ -59,7 +59,7 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body
-        className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
+        className={cn(inter.className, "min-h-screen bg-gradient-to-br from-pink-100 to-amber-100 dark:from-pink-950 dark:to-amber-950 dark:text-slate-400")}
       >
         <ThemeScript />
         <ThemeSwitcher />

@@ -2,7 +2,7 @@
 title: "Hello Nishant"
 excerpt: "A quick guide on how to write and publish your own posts on this blog."
 coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2026-06-13T00:00:00.000Z"
+date: "2026-06-13T00:02:00.000Z"
 author:
   name: Saarang
   picture: "/assets/blog/authors/tim.jpeg"
