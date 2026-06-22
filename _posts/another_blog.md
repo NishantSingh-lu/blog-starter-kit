@@ -15,6 +15,8 @@ About the Maharana Pratap.
 
 
 Maharana Pratap: The Unconquered Lion of Mewar.
+
+
 Maharana Pratap Singh Sisodia was one of the greatest warriors in the history of India. He is remembered for his bravery, sacrifices, and his determination to protect the freedom and honor of Mewar. He fought against the powerful Mughal Empire under Emperor Akbar, who was one of the strongest rulers of his time. Although Maharana Pratap faced many hardships, lost many territories, and spent years living in forests with his family, he never accepted Mughal authority and continued his struggle to preserve the independence of Mewar.
 Before the birth of Maharana Pratap, the kingdom of Mewar had already created a great history of courage, sacrifice, and resistance. The Sisodia dynasty had produced several remarkable rulers who strengthened the kingdom and protected its honor.
 Among them was Maharana Kumbha, who was one of the greatest rulers of Mewar. He strengthened the military power of the kingdom and built many magnificent forts, including the famous Kumbhalgarh Fort, which later became the birthplace of Maharana Pratap. He also promoted art, architecture, and culture, making Mewar one of the important centers of Rajput civilization.
