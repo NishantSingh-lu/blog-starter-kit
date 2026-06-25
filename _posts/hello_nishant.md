@@ -1,13 +1,13 @@
 ---
 title: "Hello Nishant"
 excerpt: "A quick guide on how to write and publish your own posts on this blog."
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/hello-world/nishant--singh.png"
 date: "2026-06-13T00:02:00.000Z"
 author:
   name: Saarang
   picture: "/assets/blog/authors/tim.jpeg"
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "/assets/blog/hello-world/nishant--singh.png"
 ---
 
 Hey Nishant, welcome to the blog. This is yours too — here's how to write on it.
