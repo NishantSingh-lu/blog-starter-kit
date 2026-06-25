@@ -2,6 +2,7 @@
 title: "Maharana Pratap Singh Sisodiya"
 excerpt: "The life, bravery, and legacy of Maharana Pratap, one of India's greatest warriors."
 coverImage: "/assets/blog/hello-world/Maharana-Pratap.png"
+date: ""
 author:
   name: "Nishant Singh"
   picture: "/assets/blog/authors/tim.jpeg"
