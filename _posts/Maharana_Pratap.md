@@ -5,7 +5,7 @@ coverImage: "/assets/blog/hello-world/Maharana-Pratap.png"
 date: "2026-06-26T00:01:00.000Z"
 author:
   name: "Nishant Singh"
-  picture: "/assets/blog/authors/tim.jpeg"
+  picture: "/assets/blog/authors/IMG-20251130-WA0073.jpg"
 ogImage:
   url: "/assets/blog/hello-world/Maharana-Pratap.png"
 ---
