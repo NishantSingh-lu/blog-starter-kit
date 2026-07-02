@@ -5,9 +5,9 @@ coverImage: "/assets/blog/hello-world/Maharana%20Sangram.png"
 date: "2026-07-02T00:01:00.000Z"
 author:
   name: "Nishant Singh"
-  picture: "/assets/blog/hello-world/Maharana%20Sangram.png"
+  picture: "/assets/blog/authors/IMG-20251130-WA0073.jpg"
 ogImage:
-  url: "/assets/blog/hello-world/Maharana-Pratap.png"
+  url: "/assets/blog/hello-world/Maharana%20Sangram.png"
 ---
 
 
