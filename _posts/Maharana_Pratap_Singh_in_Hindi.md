@@ -1,13 +1,13 @@
 ---
 title: "महाराणा प्रताप सिंह सिसोदिया"
 excerpt: "भारत के महानतम योद्धाओं में से एक महाराणा प्रताप का जीवन, अदम्य शौर्य और अमर विरासत।"
-coverImage: "/assets/blog/hello-world/Maharana-Pratap.png"
+coverImage: "/assets/blog/hello-world/Maharana-pratap07.png"
 date: "2026-07-12T00:01:00.000Z"
 author:
   name: "Nishant Singh"
   picture: "/assets/blog/authors/IMG-20251130-WA0073.jpg"
 ogImage:
-  url: "/assets/blog/hello-world/Maharana-Pratap.png"
+  url: "/assets/blog/hello-world/Maharana-pratap07.png"
 ---
 
 # महाराणा प्रताप: मेवाड़ के अजेय शेर
